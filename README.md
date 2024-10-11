@@ -1,3 +1,3 @@
 # Library-Management-System
-Due to more file i had uploaded winRAR 
-Extract this and have a look
+Due to large file size, I uploaded them as a winRAR files.
+Extract this and have a look.....
